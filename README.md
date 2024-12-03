@@ -1,6 +1,12 @@
 # README
 To view any of the following projects, please send a request to chin.vi@northeastern.edu. 
 
+Planner (Java) Mar - April 2024
+- Created a customizable planner that supports uploading/saving an XML file, creating, modifying,
+    removing, and scheduling different events. Employed the MVC design pattern
+- Applied OOP patterns, such as strategies, decorators, command-callback and inheritance
+- Designed an interactive GUI using Java Swing features such as buttons, scroll panes, and a file chooser
+
 File System (C) Dec. 2023
 - Utilized bitmap data structures to program a basic file system that supports creating, writing, reading, renaming, deleting, and listing files.
 - Developed remotely on a Linux machine over SSH and debugged using GDB to analyze the output of each file system call. Asynchronous, collaboration through Github with teammate.
